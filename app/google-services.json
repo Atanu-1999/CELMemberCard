@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878058274558",
+    "project_id": "altair-club",
+    "storage_bucket": "altair-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878058274558:android:32f0fe471074d82ac0efaf",
+        "android_client_info": {
+          "package_name": "com.AltAir.celmembercard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXd5FztzHhL8u6pXqj5XiEIPxqy1EBNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
