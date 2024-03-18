@@ -58,6 +58,7 @@ public class ContactUs extends AppCompatActivity {
         progressDialog.setMessage("Loading...");
         rl_layout = findViewById(R.id.rl_layout);
 
+
         et_message = findViewById(R.id.et_message);
         btn_submit = findViewById(R.id.btn_submit);
         back = findViewById(R.id.back);
